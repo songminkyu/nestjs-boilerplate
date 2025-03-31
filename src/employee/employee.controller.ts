@@ -27,8 +27,8 @@ export class EmployeeController {
   }
 
   @Get(':id')
-  async findOne(@Param('id') id: number) {
-    return await this.employeeService.findOneById(id);
+  async findOne(@Param('id') emp_no: number) {
+    return await this.employeeService.findOneById(emp_no);
   }
   @Patch(':emp_no')
   async update(
