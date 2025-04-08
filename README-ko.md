@@ -1,7 +1,7 @@
-# NestJS REST API boilerplate 🇺🇦
+# NestJS REST API 보일러플레이트
 
 <p style="text-align: center;">
-  English &nbsp; | &nbsp; <a href="https://github.com/songminkyu/nestjs-boilerplate/blob/main/README_ko.md">한국어</a>
+  <a href="https://github.com/songminkyu/nestjs-boilerplate/blob/main/README.md"> English</a> &nbsp; | &nbsp; 한국어</a>
 </p>
 
 [![image](https://github.com/brocoders/nestjs-boilerplate/assets/72293912/197da43e-02f4-4895-8d3e-b7a42a591c26)](https://github.com/new?template_name=nestjs-boilerplate&template_owner=brocoders)
@@ -15,43 +15,43 @@
 <p align="center"><a href="https://discord.com/channels/520622812742811698/1197293125434093701"><img src="https://github.com/brocoders/nestjs-boilerplate/assets/72293912/c9d5fbf0-b56d-46b5-bb30-f96f44764bae" width="300"/></a></p>
 <br />
 
-## Description <!-- omit in toc -->
+## 설명 <!-- omit in toc -->
 
-NestJS REST API boilerplate for a typical project
+일반적인 프로젝트를 위한 NestJS REST API 보일러플레이트
 
-[Full documentation here](/docs/readme.md)
+[전체 문서 보기](/docs/readme.md)
 
-Demo: <https://nestjs-boilerplate-test.herokuapp.com/docs>
+데모: <https://nestjs-boilerplate-test.herokuapp.com/docs>
 
-A fully compatible frontend boilerplate: <https://github.com/brocoders/extensive-react-boilerplate>
+완전히 호환되는 프론트엔드 보일러플레이트: <https://github.com/brocoders/extensive-react-boilerplate>
 
-Belongs to the [bc boilerplates](https://bcboilerplates.com/) ecosystem
+[bc 보일러플레이트](https://bcboilerplates.com/) 생태계에 속합니다
 
 <https://github.com/user-attachments/assets/a66f114a-c714-4036-8eeb-20cbf04ae985>
 
-## Table of Contents <!-- omit in toc -->
+## 목차 <!-- omit in toc -->
 
-- [Features](#features)
-- [Contributors](#contributors)
-- [Support](#support)
+- [특징](#특징)
+- [기여자](#기여자)
+- [지원](#지원)
 
-## Features
+## 특징
 
-- [x] Database. Support [TypeORM](https://www.npmjs.com/package/typeorm) and [Mongoose](https://www.npmjs.com/package/mongoose).
-- [x] Seeding.
-- [x] Config Service ([@nestjs/config](https://www.npmjs.com/package/@nestjs/config)).
-- [x] Mailing ([nodemailer](https://www.npmjs.com/package/nodemailer)).
-- [x] Sign in and sign up via email.
-- [x] Social sign in (Apple, Facebook, Google).
-- [x] Admin and User roles.
-- [x] Internationalization/Translations (I18N) ([nestjs-i18n](https://www.npmjs.com/package/nestjs-i18n)).
-- [x] File uploads. Support local and Amazon S3 drivers.
+- [x] 데이터베이스. [TypeORM](https://www.npmjs.com/package/typeorm)과 [Mongoose](https://www.npmjs.com/package/mongoose) 지원.
+- [x] 시드 데이터 생성.
+- [x] 설정 서비스 ([@nestjs/config](https://www.npmjs.com/package/@nestjs/config)).
+- [x] 메일링 ([nodemailer](https://www.npmjs.com/package/nodemailer)).
+- [x] 이메일을 통한 로그인 및 회원가입.
+- [x] 소셜 로그인 (Apple, Facebook, Google).
+- [x] 관리자 및 사용자 역할.
+- [x] 국제화/번역 (I18N) ([nestjs-i18n](https://www.npmjs.com/package/nestjs-i18n)).
+- [x] 파일 업로드. 로컬 및 Amazon S3 드라이버 지원.
 - [x] Swagger.
-- [x] E2E and units tests.
+- [x] E2E 및 단위 테스트.
 - [x] Docker.
 - [x] CI (Github Actions).
 
-## Contributors
+## 기여자
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -72,6 +72,6 @@ Belongs to the [bc boilerplates](https://bcboilerplates.com/) ecosystem
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-## Support
+## 지원
 
-If you seek consulting, support, or wish to collaborate, please contact us via [boilerplates@brocoders.com](mailto:boilerplates@brocoders.com). For any inquiries regarding boilerplates, feel free to ask on [GitHub Discussions](https://github.com/brocoders/nestjs-boilerplate/discussions) or [Discord](https://discord.com/channels/520622812742811698/1197293125434093701).
+컨설팅, 지원 또는 협업을 원하시면 [boilerplates@brocoders.com](mailto:boilerplates@brocoders.com)으로 연락해 주세요. 보일러플레이트에 관한 질문은 [GitHub Discussions](https://github.com/brocoders/nestjs-boilerplate/discussions) 또는 [Discord](https://discord.com/channels/520622812742811698/1197293125434093701)에서 자유롭게 문의하세요.
